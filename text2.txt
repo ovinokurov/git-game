@@ -1,0 +1,10 @@
+this
+is
+another
+new
+text
+file
+for
+the
+git
+game
